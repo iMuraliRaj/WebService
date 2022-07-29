@@ -1,3 +1,8 @@
 WebService:
 
  -- A service which is available over internet is called web service.
+
+
+API:
+
+ -- API is an Application Programming Interface which is act as Intermediary between two different applications
