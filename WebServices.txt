@@ -1,0 +1,3 @@
+WebService:
+
+ -- A service which is available over internet is called web service.
