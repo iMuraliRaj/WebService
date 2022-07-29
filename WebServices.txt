@@ -6,3 +6,12 @@ WebService:
 API:
 
  -- API is an Application Programming Interface which is act as Intermediary between two different applications
+
+
+Example:
+
+ - Take a amazon website
+ - It may access from different websites
+ - They give one entry point to access their db
+ - Our changes will update in their DB.
+ - We need to check it's working condition
